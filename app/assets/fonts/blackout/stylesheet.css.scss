@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Blackout Midnight';
+    src: url(font-path('blackout_midnight-webfont.eot'));
+    src: url(font-path('blackout_midnight-webfont.eot')+'?#iefix') format('embedded-opentype'),
+         url(font-path('blackout_midnight-webfont.woff')) format('woff'),
+         url(font-path('blackout_midnight-webfont.ttf')) format('truetype'),
+         url(font-path('blackout_midnight-webfont.svg')+'#blackout_midnight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackout Sunrise';
+    src: url(font-path('blackout_sunrise-webfont.eot'));
+    src: url(font-path('blackout_sunrise-webfont.eot')+'?#iefix') format('embedded-opentype'),
+         url(font-path('blackout_sunrise-webfont.woff')) format('woff'),
+         url(font-path('blackout_sunrise-webfont.ttf')) format('truetype'),
+         url(font-path('blackout_sunrise-webfont.svg')+'#blackout_sunrise') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Blackout Two AM';
+    src: url(font-path('blackout_two_am-webfont.eot'));
+    src: url(font-path('blackout_two_am-webfont.eot')+'?#iefix') format('embedded-opentype'),
+         url(font-path('blackout_two_am-webfont.woff')) format('woff'),
+         url(font-path('blackout_two_am-webfont.ttf')) format('truetype'),
+         url(font-path('blackout_two_am-webfont.svg')+'#blackout_two_am') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

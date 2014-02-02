@@ -1,0 +1,95 @@
+/* Ostrich Sans */
+
+@font-face {
+	font-family: 'Ostrich Sans';
+	src:  url(font-path('ostrich-black.eot'));
+	src:  url(font-path('ostrich-black.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('ostrich-black.woff')) format('woff'), 
+	      url(font-path('ostrich-black.ttf')) format('truetype'), 
+	      url(font-path('ostrich-black.svg')) format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ostrich Sans';
+	src:  url(font-path('ostrich-bold.eot'));
+	src:  url(font-path('ostrich-bold.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('ostrich-bold.woff')) format('woff'), 
+	      url(font-path('ostrich-bold.ttf')) format('truetype'), 
+	      url(font-path('ostrich-bold.svg')) format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ostrich Sans';
+	src:  url(font-path('ostrich-regular.eot'));
+	src:  url(font-path('ostrich-regular.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('ostrich-regular.woff')) format('woff'),
+	      url(font-path('ostrich-regular.ttf')) format('truetype'), 
+	      url(font-path('ostrich-regular.svg')) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ostrich Sans';
+	src:  url(font-path('ostrich-light.eot'));
+	src:  url(font-path('ostrich-light.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('ostrich-light.woff')) format('woff'), 
+	      url(font-path('ostrich-light.ttf')) format('truetype'), 
+	      url(font-path('ostrich-light.svg')) format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+/* Ostrich Sans Dashed */
+
+@font-face {
+	font-family: 'Ostrich Sans Dashed';
+	src:  url(font-path('ostrich-dashed.eot'));
+	src:  url(font-path('ostrich-dashed.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('ostrich-dashed.woff')) format('woff'), 
+	      url(font-path('ostrich-dashed.ttf')) format('truetype'), 
+	      url(font-path('ostrich-dashed.svg')) format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+/* Ostrich Sans Rounded */
+
+@font-face {
+	font-family: 'Ostrich Sans Rounded';
+	src:  url(font-path('ostrich-rounded.eot'));
+	src:  url(font-path('ostrich-rounded.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('ostrich-rounded.woff')) format('woff'), 
+	      url(font-path('ostrich-rounded.ttf')) format('truetype'), 
+	      url(font-path('ostrich-rounded.svg')) format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+
+/* Ostrich Sans Inline */
+
+@font-face {
+	font-family: 'Ostrich Sans Inline';
+	src:  url(font-path('ostrich-sans-inline-regular.eot'));
+	src:  url(font-path('ostrich-sans-inline-regular.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('ostrich-sans-inline-regular.woff')) format('woff'), 
+	      url(font-path('ostrich-sans-inline-regular.ttf')) format('truetype'), 
+	      url(font-path('ostrich-sans-inline-regular.svg')) format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Ostrich Sans Inline';
+	src:  url(font-path('ostrich-sans-inline-italic.eot'));
+	src:  url(font-path('ostrich-sans-inline-italic.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('ostrich-sans-inline-italic.woff')) format('woff'), 
+	      url(font-path('ostrich-sans-inline-italic.ttf')) format('truetype'),
+	      url(font-path('ostrich-sans-inline-italic.svg')) format('svg');
+	font-weight: normal;
+	font-style: italic;
+}

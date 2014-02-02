@@ -1,0 +1,43 @@
+@font-face {
+	font-family: 'Orbitron';
+	src:  url(font-path('orbitron-black-webfont.eot'));
+	src:  url(font-path('orbitron-black-webfont.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('orbitron-black-webfont.woff')) format('woff'), 
+	      url(font-path('orbitron-black-webfont.ttf')) format('truetype'), 
+	      url(font-path('orbitron-black-webfont.svg')) format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Orbitron';
+	src:  url(font-path('orbitron-bold-webfont.eot'));
+	src:  url(font-path('orbitron-bold-webfont.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('orbitron-bold-webfont.woff')) format('woff'), 
+	      url(font-path('orbitron-bold-webfont.ttf')) format('truetype'), 
+	      url(font-path('orbitron-bold-webfont.svg')) format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Orbitron';
+	src:  url(font-path('orbitron-medium-webfont.eot'));
+	src:  url(font-path('orbitron-medium-webfont.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('orbitron-medium-webfont.woff')) format('woff'),
+	      url(font-path('orbitron-medium-webfont.ttf')) format('truetype'), 
+	      url(font-path('orbitron-medium-webfont.svg')) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Orbitron';
+	src:  url(font-path('orbitron-light-webfont.eot'));
+	src:  url(font-path('orbitron-light-webfont.eot')+'?#iefix') format('embedded-opentype'),
+	      url(font-path('orbitron-light-webfont.woff')) format('woff'),
+	      url(font-path('orbitron-light-webfont.ttf')) format('truetype'), 
+	      url(font-path('orbitron-light-webfont.svg')) format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
