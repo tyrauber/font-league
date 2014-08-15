@@ -10,7 +10,7 @@ Very special thanks to the very talented people at [The League of Moveable Type]
 
 Add this line to your application's Gemfile:
 
-    gem 'font_league'
+    gem 'font-league'
 
 And then execute:
 
@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install font_league
+    $ gem install font-league
 
 ## Usage
 
